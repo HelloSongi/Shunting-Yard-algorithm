@@ -122,7 +122,7 @@ if __name__ == "__main__":
             print(shuntigYard(expression))
             
         elif choice == '2':
-            print('bot sure how to implement this part, but i tried my best')
+            print('finish this section soon')
         elif choice == '!':
             break
     print("You've program terminated")
